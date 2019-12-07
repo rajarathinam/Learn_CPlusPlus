@@ -125,7 +125,6 @@ SOURCES += \
     Amazon_Anagram_check.cpp \
     stackarray.cpp \
     pimplpattern.cpp \
-    bookimpl.cpp \
     book.cpp \
     kthlargestnumber.cpp \
     splitmatrix.cpp \
@@ -139,7 +138,6 @@ SOURCES += \
     count_distinctpairs_sumtok.cpp \
     semphore_implementation.cpp \
     lrucache.cpp \
-    remove_duplicate_chars_from_string.cpp \
     crash_on_exceptionthrownfromdestructor.cpp \
     memorypooldesign.cpp \
     datarace_racecondition.cpp \
