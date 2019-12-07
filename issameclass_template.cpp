@@ -51,7 +51,7 @@ inline size_t align(size_t n) {
   return alignedSize;
 }
 
-int main()
+int vhg()
 {
     size_t size = align(6);
 
